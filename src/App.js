@@ -34,7 +34,7 @@ const App = (props) => {
   };
 
   const style = {
-    backgroundcolour: "white",
+    backgroundColour: "white",
     font: "inherit",
     border: "1px solid blue",
     padding: "8px",
